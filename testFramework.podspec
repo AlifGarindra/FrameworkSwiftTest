@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |spec|
-  spec.name         = 'testFramework'
-  spec.version      = '1.0.2'
+  spec.name         = 'testFrameworkAlifG'
+  spec.version      = '1.0.3'
   spec.summary      = 'testing framework from cocoapod'
   spec.homepage     = 'https://github.com/AlifGarindra'
 spec.license      = { :type => 'MIT', :text => 'text' }
